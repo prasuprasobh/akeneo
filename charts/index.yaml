@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  akeneo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-03T10:52:03.9009143+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0ff03bb65fcbc4dc26676de1c7180041ac0011dfb2db4452d087c37805da3f4f
+    name: akeneo
+    type: application
+    urls:
+    - akeneo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-03T10:52:03.8998496+05:30"
