@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - akeneo-0.1.0.tgz
-    version: 0.1.0
+    version: v1.0.0
 generated: "2024-06-03T10:52:03.8998496+05:30"
